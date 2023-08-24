@@ -317,4 +317,8 @@ Dado que estamos acessando o bastion, podemos acessa a instância da aplicação
 ```bash
 ssh ec2-user@ip-privado-wp # Acessando instância da aplicação utilizando IP privado
 ```
+##
 
+<div align="center">
+  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/1667c028-5460-42ea-9235-9a213599540c" width="">
+</div>
