@@ -318,5 +318,3 @@ Dado que estamos acessando o bastion, podemos acessa a instância da aplicação
 ssh ec2-user@ip-privado-wp # Acessando instância da aplicação utilizando IP privado
 ```
 
-[Voltar para o início](#atividade-aws-docker)
-
