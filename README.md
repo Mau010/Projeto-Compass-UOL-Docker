@@ -143,7 +143,7 @@ Além disso, devemos também permitir o tráfego a internet para cada sub-rede, 
 - Adicionando rota para gateway da internet na tabela de roteamento da sub-rede pública
 
     Selecione a tabela de roteamento, siga para rotas e selecione `Editar rotas`. Após isso, selecione `adicionar rotas` e preencha:
-    
+
     Destino    | Alvo 
      ---       |  --- 
      0.0.0.0/0 | gateway da internet
@@ -155,6 +155,7 @@ Além disso, devemos também permitir o tráfego a internet para cada sub-rede, 
     Destino    | Alvo 
      ---       |  --- 
      0.0.0.0/0 | gateway NAT
+
 
 Após esses passos, finalizamos as configurações necessárias para o serviço de VPC.
 
