@@ -1,7 +1,7 @@
 # Atividade AWS - Docker
 
 <div align="center">
-  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/d3b7b930-115d-4e1d-b8f2-8a307ffbeb4e" width="340px">
+  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/a0a9220c-4af0-408b-975d-86e3b1477db6" width="340px">
 </div>
 👥 Integrantes do Grupo
 
@@ -15,7 +15,7 @@
 - Arquitetura
 
 <div align="center">
-  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/191070e2-a2f7-4dcb-9e55-705415fc9dd1" width="700px">
+  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/937544a0-3343-4fc0-846a-1dc17597630a" width="700px">
 </div>
 
 
@@ -321,5 +321,5 @@ ssh ec2-user@ip-privado-wp # Acessando instância da aplicação utilizando IP p
 ##
 
 <div align="center">
-  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/1667c028-5460-42ea-9235-9a213599540c" width="">
+  <img src="https://github.com/Mau010/Projeto-Compass-UOL-Docker/assets/87668050/2c288c05-c1a1-49ad-b394-1cb37ba6153f" width="">
 </div>
