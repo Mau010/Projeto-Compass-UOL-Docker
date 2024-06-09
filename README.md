@@ -7,7 +7,7 @@
 
 - [Maurício Sousa](https://github.com/Mau010)
 - [Katia Cardoso](https://github.com/katiacardoso)
-- [Thays Santos]()
+- [Thays Santos]() 
   
 # Sobre a Atividade
 ## Requisitos
